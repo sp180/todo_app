@@ -11,3 +11,7 @@
 /log/*
 !/log/.keep
 /tmp
+
+.gitignore
+
+screen.css
